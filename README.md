@@ -1,6 +1,6 @@
 # Emmanuel Loaiza
 
-[![Welcome](https://github.com/ecloaiza/ecloaiza/blob/main/IMG_0984.jpeg)](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA)
+[![Welcome](https://github.com/ecloaiza/ecloaiza/blob/main/IMG_0668.jpeg)](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA)
 
 **Hello, there!**
 
