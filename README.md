@@ -1,6 +1,6 @@
 # Emmanuel Loaiza
 
-[![Welcome](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg)](https://youtu.be/apgp9egIKK8)
+[![Welcome](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg)](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA)
 
 **Hello, there!**
 
@@ -27,8 +27,6 @@ Also, don't forget to check out my written tutorials and documentation. These re
 
 ## Support me and make a difference
 
-Creating high-quality videos and valuable resources that are accessible to everyone, free of charge, is a huge challenge. With your contribution, I can dedicate more time and effort into the creation process, which ultimately enhances the quality of the content. So, all your support, by becoming a member, truly makes a significant impact on what I do. And you’ll also get some cool benefits and perks in return, as a recognition of your support.
+Following me in social media keeps me going
 
-Remember, ***supporting me is entirely optional.*** Your choice to become a member or not won't change your access to my videos and resources. You are also welcome to reach out to me on Discord, if you have any questions or feedback.
 
-[https://www.patreon.com/christianlempa](https://www.patreon.com/christianlempa)
