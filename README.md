@@ -1,6 +1,6 @@
 # Emmanuel Loaiza
 
-[![Welcome](https://1drv.ms/i/s!Al-VWVoxISxdhv1OSOeJEkozpNapkA?e=ySWdZK)](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA)
+[![Welcome](https://www.dropbox.com/scl/fi/r4c11ykah2o9ld3pj008p/IMG_0984.jpeg?rlkey=n73ofrp39fysjgrqd243mpng7&dl=0)](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA)
 
 **Hello, there!**
 
