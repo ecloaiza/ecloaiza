@@ -2,9 +2,9 @@
 
 [![Welcome](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg)](https://youtu.be/apgp9egIKK8)
 
-**Hey, there!**
+**Hello, there!**
 
-**I’m Christian, and I’m passionate about creating educational tech content for IT Pros and Homelab nerds.**
+**I’m Emmanuel, and I’m passionate about Bikes and while I recover from my workouts I am working on my Homelab creating educational tech content**
 
 Through my [YouTube channel](https://youtube.com/@christianlempa), I’m sharing engaging videos, tutorials, and write-ups that make complex topics easy to understand. Whether you're a tech enthusiast or just someone curious about IT, my content offers valuable insights and practical knowledge.
 
