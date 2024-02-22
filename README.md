@@ -1,4 +1,4 @@
-# Christian Lempa
+# Emmanuel Loaiza
 
 [![Welcome](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg)](https://youtu.be/apgp9egIKK8)
 
@@ -6,27 +6,24 @@
 
 **I’m Emmanuel, and I’m passionate about Bikes and while I recover from my workouts I am working on my Homelab creating educational tech content**
 
-Through my [YouTube channel](https://youtube.com/@christianlempa), I’m sharing engaging videos, tutorials, and write-ups that make complex topics easy to understand. Whether you're a tech enthusiast or just someone curious about IT, my content offers valuable insights and practical knowledge.
+Through my [YouTube channel](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA), I’m sharing engaging videos, tutorials, and write-ups that make complex topics easy to understand. Whether you're a tech enthusiast or just someone curious about IT, my content offers valuable insights and practical knowledge.
 
 Why am I doing all this? Because I just have a genuine love for IT and sharing my knowledge with others. I believe that by presenting what I've learned, I can inspire people to explore and experiment with technology themselves.
 
-[https://youtube.com/@christianlempa](https://youtube.com/@christianlempa)
+[https://youtube.com/@ELIKESBIKES](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA)
 
 ## Meet our Community
 
-And because I believe in the power of connection and collaboration, I’ve created a tech community on Discord. It's a fantastic place to connect with other IT professionals, tech enthusiasts and others who share your passion.
+And because I believe in the power of connection and collaboration, You can find me in Discord
 
-[https://christianlempa.de/discord](https://christianlempa.de/discord)
+[https://elikesbikes.com/discord](https://discord.com/channels/@elikesbikes
 
 ## Write-Ups and Tutorials
 
 Also, don't forget to check out my written tutorials and documentation. These resources serve as valuable references that complement the information in my videos. You'll find helpful example code snippets, templates, and more to support your learning process.
 
-- [Dotfiles](https://github.com/christianlempa/dotfiles) - My personal configuration files on macOS
-- [Boilerplates](https://github.com/christianlempa/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
-- [Cheat-Sheets](https://github.com/christianlempa/cheat-sheets) - Command Reference for various tools and technologies
-- [Videos](https://github.com/christianlempa/videos) - Documentation and project files for all my video tutorials on YouTube
-- [Homelab](https://github.com/christianlempa/homelab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more.
+- [Tuturials](https://github.com/ecloaiza/tutorials) - Templates for various projects like Docker, K8S, Ansible, etc
+
 
 ## Support me and make a difference
 
