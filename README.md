@@ -1,6 +1,6 @@
 # Emmanuel Loaiza
 
-[![Welcome](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg](https://www.idrive.com/idrive/sh/sh?k=l5a8b5e9d6))](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA)
+[![Welcome]([https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg](https://www.idrive.com/idrive/sh/sh?k=l5a8b5e9d6)](https://www.idrive.com/idrive/sh/sh/l5a8b5e9d6))](https://www.youtube.com/channel/UC0vrsv--3zy9T4PN8mHVduA)
 
 **Hello, there!**
 
