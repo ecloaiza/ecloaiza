@@ -16,7 +16,7 @@ Why am I doing all this? Because I just have a genuine love for IT and sharing m
 
 And because I believe in the power of connection and collaboration, You can find me in Discord
 
-[https://elikesbikes.com/discord](https://discord.com/channels/@elikesbikes
+[https://elikesbikes.com/discord](https://discord.com/channels/@elikesbikes)
 
 ## Write-Ups and Tutorials
 
